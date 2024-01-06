@@ -12,7 +12,7 @@ This is a Node.js application that uses the `kls-instagram-api` to automate Inst
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/auto-insta.git
+git clone https://github.com/zthinhddo/node-insta-autotools.git
 cd auto-insta
 
 2. Install depedencies
